@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8caf06b-d4e4-4abe-8a83-72113aa210ac" />
+
 # Hi 👋, I'm Mohamed Imran S  
 🧩 Problem Solver | 🎨 Frontend Developer | 💻 Electronics & IoT | 🤖 Machine Learning Explorer  
 
