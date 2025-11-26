@@ -5,7 +5,7 @@
 
 🔭 I’m currently working on ESP32-based Voice Assistant & IoT Projects  
 
-🌱 I’m currently learning Cloud & Advanced Machine Learning  
+🌱 I’m currently learning SpringBoot frameworks 
 
 💬 Ask me about Java, Frontend, Problem Solving, Electronics and IoT 
 
